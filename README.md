@@ -19,14 +19,14 @@ I'm also driven by community, open source, and helping more devs feel confident 
 <div align ='center'>
   <a href="mailto:omotolanionajoko@gmail.com" target='blank'>
   <img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  <a>
+  </a>
 
   <a href="https://x.com/codesbytola" target='blank'>
   <img src ="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
-  <a>
+  </a>
   <a href="https://www.linkedin.com/in/omotolani-onajoko-641551364/" target='blank'>
   <img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  <a>
+  </a>
 </div>
 <br/>
 <h2 align="center">Languages-Frameworks-Tools</h2>
