@@ -33,7 +33,7 @@ I'm also driven by community, open source, and helping more devs feel confident 
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,tailwind,git,bash" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,nextjs,postgresql,aws,jest" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,supabase,nextjs,postgresql,aws,jest" /><br>
 </div>
 
 <br/>
