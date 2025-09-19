@@ -2,7 +2,7 @@
 
 <div align='center'>
 
-<a href="https://x.com/codesbytola">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=2030&height=700&lines=Hey+there+I'm+Tolani;Frontend+Developer+%7C+UI+Enthusiast+%7CCode+Craftsman;I+craft+clean%2C+scalable+and+responsive+UIs.;%F0%9F%92%BC+Open+to+frontend+roles+%E2%80%94+let%E2%80%99s+connect!)](https://git.io/typing-svg)</a>
+<a href="https://x.com/codesbytola">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=2030&height=500&lines=Hey+there+I'm+Tolani;Frontend+Developer+%7C+UI+Enthusiast+%7CCode+Craftsman;I+craft+clean%2C+scalable+and+responsive+UIs.;%F0%9F%92%BC+Open+to+frontend+roles+%E2%80%94+let%E2%80%99s+connect!)](https://git.io/typing-svg)</a>
 
 </div>
 
