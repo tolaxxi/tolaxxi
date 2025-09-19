@@ -2,7 +2,7 @@
 
 <div align='center'>
 
-<a href="https://x.com/codesbytola"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&color=000000&background=FFFFFF&center=true&width=2030&height=640&lines=+Hey+there+I'm+Tolani;+Full-Stack+Developer++%7C+UI+Enthusiast++%7C+Code+Craftsman+;I+build+clean%2C+scalable+web+apps+from+front+to+back.;%F0%9F%92%BC+Open+to+opportunities+%E2%80%94+let%E2%80%99s+connect+and+create+impact." alt="Typing SVG" /></a>
+<a href="https://x.com/codesbytola">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=2030&height=1000&lines=Hey+there+I'm+Tolani;Frontend+Developer+%7C+UI+Enthusiast+%7CCode+Craftsman;I+craft+clean%2C+scalable+and+responsive+UIs.;%F0%9F%92%BC+Open+to+frontend+roles+%E2%80%94+let%E2%80%99s+connect!)](https://git.io/typing-svg)</a>
 
 </div>
 
@@ -33,7 +33,7 @@ I'm also driven by community, open source, and helping more devs feel confident 
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,tailwind,git,bash" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,supabase,nextjs,postgresql,aws,jest" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,supabase,nextjs,aws,jest" /><br>
 </div>
 
 <br/>
