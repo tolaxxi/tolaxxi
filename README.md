@@ -8,11 +8,14 @@
 
 <div align ='left'>
 
-I’m Tolani — a Full-Stack Developer with a passion for building clean, responsive web apps that solve real problems.
+## 👋 Hey, I’m Tolani  
 
-My favorite tools include React, Node.js, Express, PostgreSQL,Next.js, HTML, CSS, and JavaScript. I enjoy bringing UIs to life and designing smooth developer experiences from frontend to backend.
+I’m a **Frontend Developer** passionate about building clean, responsive, and user-friendly web apps.  
+My favorite tools include **React, TypeScript, Next.js, HTML, CSS, Tailwind and JavaScript**.  
 
-I'm also driven by community, open source, and helping more devs feel confident navigating their coding journey.
+I enjoy crafting smooth UIs, improving developer experience, and turning ideas into pixel-perfect, scalable interfaces.  
+
+💼 Open to **frontend opportunities** — let’s connect and create impact!  
 
 </div>
 
@@ -33,7 +36,7 @@ I'm also driven by community, open source, and helping more devs feel confident 
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,tailwind,git,bash" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,supabase,nextjs,aws,jest" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,supabase,nextjs,npm,aws,postman,redux,jest,materialui" /><br>
 </div>
 
 <br/>
