@@ -35,8 +35,8 @@ I enjoy crafting smooth UIs, improving developer experience, and turning ideas i
 <h2 align="center">Languages-Frameworks-Tools</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,tailwind,git,bash" />
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,supabase,nextjs,npm,firebase,redux,jest,vitest" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,tailwind,git,bash" />
+    <img src="https://skillicons.dev/icons?i=javascript,npm,typescript,react,supabase,nextjs,firebase,redux,jest,vitest" /><br>
 </div>
 
 <br/>
