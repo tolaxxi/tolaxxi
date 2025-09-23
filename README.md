@@ -36,7 +36,7 @@ I enjoy crafting smooth UIs, improving developer experience, and turning ideas i
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,tailwind,git,bash" />
-    <img src="https://skillicons.dev/icons?i=javascript,npm,typescript,react,supabase,nextjs,firebase,redux,jest,vitest" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,npm,supabase,nextjs,firebase,redux,jest,vitest" /><br>
 </div>
 
 <br/>
